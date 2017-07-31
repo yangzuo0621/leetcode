@@ -1,5 +1,3 @@
-package com.test.spring;
-
 import java.util.Arrays;
 
 /**
