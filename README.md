@@ -18,3 +18,4 @@ LeetCode
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | Easy |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |
+| 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
