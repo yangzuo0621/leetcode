@@ -12,3 +12,5 @@ LeetCode
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy |
+| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy |
+| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |
