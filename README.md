@@ -10,6 +10,7 @@ LeetCode
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium |
 | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | Medium |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Easy |
+| 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | Medium |
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy |
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | Easy |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy |
