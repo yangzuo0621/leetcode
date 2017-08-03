@@ -8,6 +8,7 @@ LeetCode
 | 003 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Medium |
 | 004 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium |
+| 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | Medium |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Easy |
 | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy |
 | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | Easy |
