@@ -9,3 +9,6 @@ LeetCode
 | 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Hard |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Easy |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy |
