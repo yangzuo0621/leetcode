@@ -14,3 +14,4 @@ LeetCode
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | Easy |
