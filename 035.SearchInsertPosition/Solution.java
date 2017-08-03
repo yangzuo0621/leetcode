@@ -22,7 +22,8 @@ public class Solution {
 
 //    public int searchInsert(int[] nums, int target) {
 //        int len = nums.length;
-//        if (nums[len] < target) return len + 1;
+//        if (nums[len-1] < target) return len;
+//        if (nums[0] > target) return 0;
 //
 //        int low = 0, high = nums.length;
 //        int mid = 0;
@@ -35,6 +36,7 @@ public class Solution {
 //                high = mid - 1;
 //            }
 //        }
+//        if (nums[mid] < target) return mid + 1;
 //        return mid;
 //    }
 
