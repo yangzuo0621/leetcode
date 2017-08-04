@@ -28,3 +28,4 @@ LeetCode
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
