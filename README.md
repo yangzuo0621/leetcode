@@ -22,6 +22,7 @@ LeetCode
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | Easy |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
+| 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
