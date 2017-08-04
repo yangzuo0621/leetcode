@@ -24,3 +24,4 @@ LeetCode
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
