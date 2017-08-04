@@ -23,6 +23,7 @@ LeetCode
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |
+| 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Easy |
