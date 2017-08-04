@@ -26,3 +26,4 @@ LeetCode
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
