@@ -32,3 +32,4 @@ LeetCode
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
