@@ -39,3 +39,4 @@ LeetCode
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy |
