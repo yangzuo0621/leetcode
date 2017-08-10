@@ -40,4 +40,5 @@ LeetCode
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy |
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | Easy |
