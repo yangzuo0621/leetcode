@@ -43,6 +43,7 @@ LeetCode
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Easy |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy |
