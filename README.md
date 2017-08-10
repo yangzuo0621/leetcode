@@ -39,6 +39,7 @@ LeetCode
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | Easy |
