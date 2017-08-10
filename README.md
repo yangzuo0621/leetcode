@@ -40,6 +40,7 @@ LeetCode
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Easy |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy |
