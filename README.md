@@ -46,6 +46,7 @@ LeetCode
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | Easy |
