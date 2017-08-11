@@ -35,6 +35,7 @@ LeetCode
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy |
