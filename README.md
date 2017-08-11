@@ -55,6 +55,7 @@ LeetCode
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Easy |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | Easy |
+| 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
