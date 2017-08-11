@@ -49,6 +49,7 @@ LeetCode
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | Easy |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |
