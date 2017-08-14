@@ -48,6 +48,7 @@ LeetCode
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
