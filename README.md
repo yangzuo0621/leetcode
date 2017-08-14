@@ -77,6 +77,7 @@ LeetCode
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | Easy |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | Easy |
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | Easy |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Easy |
