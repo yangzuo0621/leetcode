@@ -65,6 +65,7 @@ LeetCode
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | Easy |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Easy |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | Easy |
