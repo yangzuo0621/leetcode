@@ -85,6 +85,7 @@ LeetCode
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | Easy |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | Easy |
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Easy |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | Easy |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | Easy |
