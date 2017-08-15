@@ -61,6 +61,7 @@ LeetCode
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Easy |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | Easy |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | Easy |
