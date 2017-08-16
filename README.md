@@ -73,6 +73,7 @@ LeetCode
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | Easy |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) | Easy |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/description/) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | Easy |
