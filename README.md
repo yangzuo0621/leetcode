@@ -29,6 +29,7 @@ LeetCode
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | Easy |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |
+| 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Easy |
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |
