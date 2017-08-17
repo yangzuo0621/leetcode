@@ -88,6 +88,7 @@ LeetCode
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Easy |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | Easy |
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | Easy |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | Easy |
 | 575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) | Easy |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | Easy |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) | Easy |
