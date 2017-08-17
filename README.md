@@ -47,6 +47,7 @@ LeetCode
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | Easy |
