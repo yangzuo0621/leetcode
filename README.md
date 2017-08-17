@@ -61,6 +61,7 @@ LeetCode
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | Easy |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | Easy |
+| 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) | Easy |
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) | Easy |
