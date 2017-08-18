@@ -107,6 +107,7 @@ LeetCode
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | Easy |
 | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/) | Easy |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | Easy |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) | Easy |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) | Easy |
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | Easy |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | Easy |
