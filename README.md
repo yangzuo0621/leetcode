@@ -35,6 +35,7 @@ LeetCode
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
