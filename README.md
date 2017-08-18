@@ -115,6 +115,7 @@ LeetCode
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | Easy |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | Easy |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | Easy |
 
