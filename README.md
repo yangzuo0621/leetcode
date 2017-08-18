@@ -53,6 +53,7 @@ LeetCode
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Easy |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Easy |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | Easy |
