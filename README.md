@@ -36,6 +36,7 @@ LeetCode
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | Easy |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | Easy |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | Easy |
