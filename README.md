@@ -114,6 +114,7 @@ LeetCode
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | Easy |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Easy |
+| 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | Easy |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | Easy |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Easy |
