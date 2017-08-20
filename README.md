@@ -49,6 +49,7 @@ LeetCode
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | Easy |
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Easy |
