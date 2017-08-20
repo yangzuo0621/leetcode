@@ -90,6 +90,7 @@ LeetCode
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) | Easy |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | Easy |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | Easy |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | Easy |
 | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | Easy |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/) | Easy |
