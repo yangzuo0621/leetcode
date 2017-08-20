@@ -54,6 +54,7 @@ LeetCode
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Easy |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Easy |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
