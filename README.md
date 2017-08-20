@@ -57,6 +57,7 @@ LeetCode
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | Easy |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Easy |
