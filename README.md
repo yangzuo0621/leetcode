@@ -91,6 +91,7 @@ LeetCode
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | Easy |
+| 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/description/) | Easy |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/description/) | Easy |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/) | Easy |
