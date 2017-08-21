@@ -138,6 +138,7 @@ LeetCode
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) | Easy |
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | Easy |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | Easy |
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | Easy |
 | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | Easy |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/) | Easy |
