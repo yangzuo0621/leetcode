@@ -112,6 +112,7 @@ LeetCode
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Easy |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/description/) | Easy | 
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy |
+| 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/description/) | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | Easy |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Easy |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | Easy |
