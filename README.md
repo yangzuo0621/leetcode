@@ -110,6 +110,7 @@ LeetCode
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/) | Easy |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/) | Easy |
+| 475 | [Heaters](https://leetcode.com/problems/heaters/description/) | Easy | 
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/description/) | Easy |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | Easy |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) | Easy |
