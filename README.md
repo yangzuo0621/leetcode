@@ -72,6 +72,7 @@ LeetCode
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/description/) | Easy |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/description/) | Medium |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/description/) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Easy |
