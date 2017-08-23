@@ -46,6 +46,7 @@ LeetCode
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | Easy |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | Easy |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | Easy |
