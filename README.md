@@ -135,6 +135,7 @@ LeetCode
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Easy |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | Easy |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/) | Easy |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | Medium |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | Easy |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) | Easy |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/) | Easy |
