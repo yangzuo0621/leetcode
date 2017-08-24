@@ -1,6 +1,7 @@
 /**
  * 解题思路：
- * 需考虑溢出情况。这里使用了long来替代int进行计算。
+ * 需考虑溢出情况。
+ * 这里使用了long来替代int进行计算。
  */
 public class Solution {
 
