@@ -1,6 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * 解题思路：
  * 使用一个Map，保存数组元素及其索引的键值对。
