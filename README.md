@@ -68,6 +68,7 @@ LeetCode
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | Easy |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | Easy |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | Easy |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/description/) | Easy |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | Easy |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | Easy |
