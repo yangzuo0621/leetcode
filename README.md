@@ -129,7 +129,7 @@ LeetCode
 | 504 | [Base 7](https://leetcode.com/problems/base-7/description/) | Easy |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | Easy |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/description/) | Easy |
-| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | Easy |
+| 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | Medium |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | Easy |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Easy |
