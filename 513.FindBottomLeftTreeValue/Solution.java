@@ -3,7 +3,7 @@ import java.util.Queue;
 
 /**
  * 解题思路：
- * 层次遍历。
+ * 使用层次遍历。
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
