@@ -6,6 +6,7 @@
  * 最后根据提示，进一步抽象，寻找第K个最小值，之后豁然开朗。
  */
 public class Solution {
+    
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int len = nums1.length + nums2.length;
         if (len % 2 == 1) {
