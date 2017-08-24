@@ -4,7 +4,7 @@ import java.util.Arrays;
  * 解题思路：
  * 动态规划，假设str的前[0, i]的最大无重复子串为s。
  * 当str[i+1]在s中无重复且s与str[i+1]相临近，则最大无重复子串为s + str[i+1]；
- * 当str[i+1]在s中有重复，假设重复的索引为j，那么最大无重复子串为max{maxStr, curStr.sub(j+1)+str[i+1]}
+ * 当str[i+1]在s中有重复，假设重复的索引为j，那么最大无重复子串为max{maxStr, curStr.sub(j+1)+str[i+1]}.
  */
 public class Solution {
 
