@@ -36,4 +36,26 @@ class Solution {
         }
         return result;
     }
+    
+    /**
+     * 递归解法
+     */
+    //    private int value, currentLevel;
+    //    public int findBottomLeftValue(TreeNode root) {
+    //        value = 0;
+    //        currentLevel = 0;
+    //        findLeftValue(root, 1);
+    //        return value;
+    //    }
+    //
+    //    private void findLeftValue(TreeNode root, int level) {
+    //        if (root == null) return ;
+    //        if (level >= currentLevel) {
+    //            value = root.val;
+    //            currentLevel = level;
+    //        }
+    //        // 必须先从右子树开始找起
+    //        findLeftValue(root.right, level + 1);
+    //        findLeftValue(root.left, level + 1);
+    //    }
 }
