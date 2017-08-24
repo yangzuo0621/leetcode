@@ -8,8 +8,8 @@
  * TODO 除了动态规划，有更快的方法
  */
 public class Solution {
-    public String longestPalindrome(String s) {
 
+    public String longestPalindrome(String s) {
         if (s == null || s.length() == 0) return "";
         if (s.length() == 1) return s;
         int length = s.length();
