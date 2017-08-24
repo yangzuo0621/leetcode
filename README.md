@@ -86,6 +86,7 @@ LeetCode
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | Easy |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | Medium |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Medium |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/description/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
