@@ -93,6 +93,7 @@ LeetCode
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/description/) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | Easy |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | Easy |
