@@ -18,6 +18,7 @@ LeetCode
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | Medium |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | Easy |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy |
+| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | Medium |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | Easy |
