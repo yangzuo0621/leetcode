@@ -113,6 +113,7 @@ LeetCode
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | Easy |
 | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/description/) | Easy |
+| 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | Medium |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | Easy |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | Easy |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | Easy |
