@@ -145,6 +145,7 @@ LeetCode
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/description/) | Easy |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) | Medium |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | Medium |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | Medium |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | Easy |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | Medium |
