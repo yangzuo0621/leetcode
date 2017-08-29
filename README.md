@@ -88,6 +88,7 @@ LeetCode
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | Easy |
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |
