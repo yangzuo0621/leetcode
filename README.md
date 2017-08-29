@@ -22,6 +22,7 @@ LeetCode
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | Easy |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | Easy |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | Easy |
+| 032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | Medium |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |
