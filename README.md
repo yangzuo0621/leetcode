@@ -147,6 +147,7 @@ LeetCode
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | Medium |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/description/) | Easy |
 | 521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | Easy |
+| 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/description/) | Medium |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | Easy |
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | Easy |
 | 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | Medium |
