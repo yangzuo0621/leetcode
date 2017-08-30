@@ -52,6 +52,7 @@ LeetCode
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | Easy |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | Medium |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | Hard |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) | Medium |
