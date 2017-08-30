@@ -26,6 +26,7 @@ LeetCode
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |
 | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | Easy |
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium |
