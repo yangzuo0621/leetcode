@@ -28,6 +28,7 @@ LeetCode
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |
 | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Easy |
 | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | Easy |
+| 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | Medium |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | Easy |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | Easy |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |
