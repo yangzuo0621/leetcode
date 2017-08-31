@@ -17,7 +17,6 @@ class Solution {
         if (count != 0 && num == 0) return;
         if (count == 0 && num == 0) {
             result.add(new ArrayList<>(list));
-            list.remove(list.size() - 1);
             return;
         }
         for (int i = cur; i <= 9; ++i) {
