@@ -35,6 +35,7 @@ LeetCode
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | Easy |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | Easy |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | Easy |
+| 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | Medium |
 | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | Easy |
 | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | Easy |
 | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | Medium |
