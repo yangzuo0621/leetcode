@@ -25,6 +25,7 @@ LeetCode
 | 032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | Medium |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | Medium |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | Easy |
+| 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | Medium |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | Easy |
 | 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | Medium |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | Medium |
