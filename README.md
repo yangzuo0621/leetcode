@@ -51,6 +51,7 @@ LeetCode
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | Easy |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | Easy |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | Medium |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | Medium |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/) | Easy |
