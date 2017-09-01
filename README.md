@@ -73,6 +73,7 @@ LeetCode
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | Easy |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | Easy |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | Medium |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | Easy |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | Easy |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | Easy |
