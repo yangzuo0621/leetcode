@@ -108,6 +108,7 @@ LeetCode
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/description/) | Easy |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | Easy |
+| 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/) | Medium |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/description/) | Easy |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | Medium |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Medium |
