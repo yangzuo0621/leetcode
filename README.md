@@ -195,5 +195,6 @@ LeetCode
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | Medium |
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | Easy |
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | Medium |
+| 655 | [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) | Medium |
 | 657 | [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | Easy |
 | 665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/description/) | Easy |
